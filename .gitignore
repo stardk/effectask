@@ -28,3 +28,6 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+=======
+.idea
+>>>>>>> 1d8fb42641128861ca58672535d98435855ff541
